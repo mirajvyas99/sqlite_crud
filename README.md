@@ -1,6 +1,6 @@
 # sqlite_crud
 
-A new Flutter application.
+Flutter application - SQLite CRUD Operations.
 
 ## Getting Started
 
